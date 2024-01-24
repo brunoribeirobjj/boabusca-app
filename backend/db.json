@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Álbum Fotográfico",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "Moldura 15x21",
+      "price": 20.85
+    },
+    {
+      "id": 3,
+      "name": "Banner 50x70",
+      "price": 80.47
+    },
+    {
+      "name": "caderno",
+      "price": "40.47",
+      "id": 4
+    },
+    {
+      "name": "playstation",
+      "price": "1200.00",
+      "id": 5
+    }
+  ]
+}
